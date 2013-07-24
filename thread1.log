@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-08-23T19:30:15</date>
+  <millis>1282563015583</millis>
+  <sequence>0</sequence>
+  <logger>thread1</logger>
+  <level>INFO</level>
+  <class>threadSpecificStorage.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>10</thread>
+  <message>thread1: message 0</message>
+</record>
+<record>
+  <date>2010-08-23T19:30:16</date>
+  <millis>1282563016841</millis>
+  <sequence>3</sequence>
+  <logger>thread1</logger>
+  <level>INFO</level>
+  <class>threadSpecificStorage.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>10</thread>
+  <message>thread1: message 1</message>
+</record>
+<record>
+  <date>2010-08-23T19:30:17</date>
+  <millis>1282563017841</millis>
+  <sequence>6</sequence>
+  <logger>thread1</logger>
+  <level>INFO</level>
+  <class>threadSpecificStorage.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>10</thread>
+  <message>thread1: message 2</message>
+</record>
+<record>
+  <date>2010-08-23T19:30:18</date>
+  <millis>1282563018841</millis>
+  <sequence>9</sequence>
+  <logger>thread1</logger>
+  <level>INFO</level>
+  <class>threadSpecificStorage.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>10</thread>
+  <message>thread1: message 3</message>
+</record>
+<record>
+  <date>2010-08-23T19:30:19</date>
+  <millis>1282563019841</millis>
+  <sequence>12</sequence>
+  <logger>thread1</logger>
+  <level>INFO</level>
+  <class>threadSpecificStorage.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>10</thread>
+  <message>thread1: message 4</message>
+</record>
+<record>
+  <date>2010-08-23T19:30:20</date>
+  <millis>1282563020841</millis>
+  <sequence>15</sequence>
+  <logger>thread1</logger>
+  <level>INFO</level>
+  <class>threadSpecificStorage.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>10</thread>
+  <message>thread1: message 5</message>
+</record>
+<record>
+  <date>2010-08-23T19:30:21</date>
+  <millis>1282563021841</millis>
+  <sequence>18</sequence>
+  <logger>thread1</logger>
+  <level>INFO</level>
+  <class>threadSpecificStorage.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>10</thread>
+  <message>thread1: message 6</message>
+</record>
+<record>
+  <date>2010-08-23T19:30:22</date>
+  <millis>1282563022841</millis>
+  <sequence>21</sequence>
+  <logger>thread1</logger>
+  <level>INFO</level>
+  <class>threadSpecificStorage.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>10</thread>
+  <message>thread1: message 7</message>
+</record>
+<record>
+  <date>2010-08-23T19:30:23</date>
+  <millis>1282563023841</millis>
+  <sequence>24</sequence>
+  <logger>thread1</logger>
+  <level>INFO</level>
+  <class>threadSpecificStorage.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>10</thread>
+  <message>thread1: message 8</message>
+</record>
+<record>
+  <date>2010-08-23T19:30:24</date>
+  <millis>1282563024841</millis>
+  <sequence>27</sequence>
+  <logger>thread1</logger>
+  <level>INFO</level>
+  <class>threadSpecificStorage.SimpleThreadLogger</class>
+  <method>log</method>
+  <thread>10</thread>
+  <message>thread1: message 9</message>
+</record>
+</log>
